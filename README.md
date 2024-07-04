@@ -1,6 +1,12 @@
 # Tiling_pattern
 Scripts for generating and optimising tiling pattern on curved surface <br />
 
+Generating high-quality quad mesh: 
+https://github.com/hjwdzh/QuadriFlow
+
+Geoemtry optimisation: 
+https://infoscience.epfl.ch/record/183433?v=pdf
+
 ## Citation BibTeX: 
 @inproceedings{Du2023, <br />
     author    = "Du, C. and Van Mele, T. and Block, P.", <br />
